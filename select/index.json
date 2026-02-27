@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Porcelain",
+  "base_artist": "Moby",
+  "createdAt": "2026-02-27T20:20:31.909758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_Porcelain_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/02_Porcelain_Moby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "porcelain slightly",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/03_porcelain_slightly_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Better Than Ezra",
+      "has_synced": true,
+      "path": "select/04_Porcelain_Better_Than_Ezra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Courtney Barnett",
+      "has_synced": true,
+      "path": "select/05_Porcelain_Courtney_Barnett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/06_Porcelain_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Porcelain Hands",
+      "artist": "Weatherday",
+      "has_synced": true,
+      "path": "select/07_Porcelain_Hands_Weatherday.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/08_Porcelain_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Porcelain Skull - Demo",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/09_Porcelain_Skull_-_Demo_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Porcelain Skull",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/10_Porcelain_Skull_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Semblant",
+      "has_synced": true,
+      "path": "select/11_Porcelain_Semblant.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Porcelain Heart",
+      "artist": "Opeth",
+      "has_synced": true,
+      "path": "select/12_Porcelain_Heart_Opeth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Porcelain Doll",
+      "artist": "Megan McCauley",
+      "has_synced": true,
+      "path": "select/13_Porcelain_Doll_Megan_McCauley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Ichiko Aoba",
+      "has_synced": true,
+      "path": "select/14_Porcelain_Ichiko_Aoba.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Men I Trust",
+      "has_synced": true,
+      "path": "select/15_Porcelain_Men_I_Trust.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Porcelain",
+      "artist": "Mother Falcon",
+      "has_synced": true,
+      "path": "select/16_Porcelain_Mother_Falcon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Porcelain",
+      "artist": "Moby",
+      "has_synced": false,
+      "path": "select/pl_01_Porcelain_Moby.txt"
+    }
+  ]
+}
